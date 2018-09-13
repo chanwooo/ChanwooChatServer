@@ -13,3 +13,15 @@ $ nc [ServerIP] [Port]
 ```
 $ nc 127.0.0.1 33333
 ```
+
+#### 명령어
+/help
+
+/name
+/show
+/create [room name]
+/remove [room name]
+/enter [room name]
+/join [room name]
+/exit
+/quit
